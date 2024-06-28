@@ -1,0 +1,1 @@
+Projeto de estudo para criar uma tela de login em python com tkinter.
