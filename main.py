@@ -82,3 +82,5 @@ botao_confirmar.place(x=15, y=180)
 
 # Iniciando o loop principal da janela
 janela.mainloop()
+
+# Projeto de estudo!
